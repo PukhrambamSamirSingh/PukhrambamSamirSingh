@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning AWS.
 - 👯 I’m currently looking for a job to work as a full-stack developer and to collaborate with the team members to explore more.
 
-## 🛠️ Tech Stacks
+## 🛠️ Skills
 
 - **Languages:** JavaScript (React.js, Node.js), HTML, CSS
 - **Technologies & Tools:** Express.js, Git, VS Code, Gitpod, Redux, Context Api, JWT-Tokens, Docker
