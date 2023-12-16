@@ -17,7 +17,7 @@
 
 ## 🌱 Currently Learning
 
-### Continuously expanding my skill set, I'm currently deep-diving into Amazon Web Services (AWS).
+Continuously expanding my skill set, I'm currently deep-diving into Amazon Web Services (AWS).
 
 ## I possess intermediate knowledge in the following areas, and if required for projects and tasks, I can quickly excel in them within a month:
 
