@@ -11,13 +11,13 @@
 ## 🛠️ Tech Stacks
 
 - **Languages:** JavaScript (React.js, Node.js), HTML, CSS
-- **Technologies & Tools:** Express.js, Git, VS Code, , Gitpod, Redux, Context Api, JWT-Tokens, Docker
+- **Technologies & Tools:** Express.js, Git, VS Code, Gitpod, Redux, Context Api, JWT-Tokens, Docker
 - **Database:** MongoDB
 - **Other:** RESTful APIs, Tailwind CSS, LucidChart
 
 ## 🌱 Currently Learning
 
-Continuously expanding my skill set, I'm currently deep-diving into Amazon Web Services (AWS).
+Continuously expanding my skill set, I'm currently deep-diving into the **Cloud (Amazon Web Services)**.
 
 ## I possess intermediate knowledge in the following areas, and if required for projects and tasks, I can quickly excel in them within a month:
 
