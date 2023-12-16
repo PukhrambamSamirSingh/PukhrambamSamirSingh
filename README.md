@@ -1,4 +1,4 @@
-#                                                    Welcome to my GitHub profile!
+# Welcome to my GitHub profile!
 
 👋 Hi there! I'm Pukhrambam Samir Singh, a passionate Full Stack Web Developer always eager to learn and explore new technologies.
 
