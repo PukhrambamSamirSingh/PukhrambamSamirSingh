@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stacks
 
 - **Languages:** JavaScript (React.js, Node.js), HTML, CSS,  
-- **Technologies & Tools:** Express.js, MongoDB, Git, VS Code, LucidChart, Gitpod
+- **Technologies & Tools:** Express.js, Git, VS Code, LucidChart, Gitpod
 - **Database:** MongoDB
 - **Other:** RESTful APIs, Redux, Context Api, JWT-Tokens
 
