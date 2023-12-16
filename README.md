@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile!
+#                                                    Welcome to my GitHub profile!
 
 👋 Hi there! I'm Pukhrambam Samir Singh, a passionate Full Stack Web Developer always eager to learn and explore new technologies.
 
@@ -10,10 +10,10 @@
 
 ## 🛠️ Tech Stacks
 
-- **Languages:** JavaScript (React.js, Node.js), HTML, CSS,  
-- **Technologies & Tools:** Express.js, Git, VS Code, LucidChart, Gitpod
+- **Languages:** JavaScript (React.js, Node.js), HTML, CSS 
+- **Technologies & Tools:** Express.js, Git, VS Code, , Gitpod, Redux, Context Api, JWT-Tokens
 - **Database:** MongoDB
-- **Other:** RESTful APIs, Redux, Context Api, JWT-Tokens
+- **Other:** RESTful APIs, Tailwind CSS, LucidChart
 
 ## 🌱 Currently Learning
 
