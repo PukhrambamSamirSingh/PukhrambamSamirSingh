@@ -23,7 +23,6 @@ Continuously expanding my skill set, I'm currently deep-diving into the **Cloud 
 
 - **Languages:** Typescript, Python, Java
 - **Frameworks:** NextJs
-- **Technologies and Tools:** CI/CD
 
 ## 🌐 Connect with Me
 
